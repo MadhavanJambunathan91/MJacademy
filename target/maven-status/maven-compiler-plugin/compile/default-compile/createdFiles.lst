@@ -1,0 +1,8 @@
+MJacademy\pageobjects\Checkout.class
+MJacademy\pageobjects\Productcatalogue.class
+MJacademy\resources\ExtentreportersNG.class
+MJacademy\pageobjects\Orderhistory.class
+MJacademy\abstractcomponent\Abstractcomponent.class
+MJacademy\pageobjects\Landing_page.class
+MJacademy\pageobjects\cartpage.class
+MJacademy\pageobjects\confirmationpage.class

@@ -1,0 +1,10 @@
+MJacademy\test\Standalone_actualtest.class
+MJacademy\Testcomponents\Basetest.class
+MJacademy\Testcomponents\Basetest$1.class
+MJacademy\test\Errormessageval.class
+MJacademy\data\Datareader.class
+MJacademy\data\Datareader$1.class
+MJacademy\Testcomponents\Retry.class
+MJacademy\test\Submitorderflow.class
+MJacademy\Testcomponents\Listeners.class
+MJacademy\test\Submitorder_using_dataprovider_json.class
