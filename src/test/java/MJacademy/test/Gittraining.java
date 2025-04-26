@@ -8,6 +8,8 @@ public class Gittraining {
            String training = "Hello world";
            System.out.println(training);
            
+           System.out.println("This is git og");
+           
 	}
 
 }
