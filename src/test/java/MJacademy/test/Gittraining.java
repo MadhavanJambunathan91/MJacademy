@@ -10,6 +10,13 @@ public class Gittraining {
            
            System.out.println("This is git og");
            
+  
+           
 	}
+	
+	public void newbranch ()
+    {
+ 	   System.out.println("This is new branch");
+    }
 
 }
